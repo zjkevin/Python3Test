@@ -1,0 +1,13 @@
+Event_Code:hzshiqiao-migu-24394030
+Alert_Code: hzshiqiao-migu-144950
+Node: 571-10-hzshiqiao-migu
+Status: OK
+Level: Disaster
+Title: 172.30.139.137 主机不可达
+Event_Time: 2016.05.27 17:26:40
+HostRole: {HOST_ROLE}
+Host: 172.30.139.137
+HostGroup:00.全部监控对象, LINUX服务器—杭州, [P]一级用户系统一点五期[HZ], 一级用户系统—杭州—hadoop-datanode-1.5
+Data:ICMP Ping-1;ICMP Ping-1;*UNKNOWN*-*UNKNOWN*;*UNKNOWN*-*UNKNOWN*;*UNKNOWN*-*UNKNOWN*
+HostGroup2:{HOST_GROUP}
+Jump URL:
